@@ -16,8 +16,8 @@ public class Ex020 {
                 out += 1;
             }
         }
-        System.out.println(in + "in");
-        System.out.println(out + "out");
+        System.out.println(in + "in ");
+        System.out.println(out + "out ");
         sc.close();
     }
 }
